@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Parijat Ghosh</h1>
-<h3 align="center">I am here just to solve real world problems</h3>
+<h3 align="center">I am here just to solve real world problems with my skills</h3>
 
 <img align="right" alt = "coding" width="300" height="300" src="https://media.licdn.com/dms/image/v2/D4D12AQHGG4J6b6OmyQ/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1709674937953?e=2147483647&v=beta&t=tgAv-o8rHSfUFWzGQT2nCOfZkc2Hdluh-9xTR3Opu-w">
 
