@@ -21,7 +21,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=parijat-ghosh&show_icons=true&locale=en" alt="parijat-ghosh" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parijat-ghosh&" alt="parijat-ghosh" /></p>
+
 
 
 <!---
