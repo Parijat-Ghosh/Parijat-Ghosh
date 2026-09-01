@@ -81,6 +81,12 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=parijat-ghosh&theme=tokyonight&hide_border=true&card_width=450" alt="GitHub Streak" />
 </div>
 
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</div>
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,14,23,30&height=120&section=footer" width="100%" alt="Footer Wave" />
 </div>
