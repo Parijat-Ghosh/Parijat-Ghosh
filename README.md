@@ -87,12 +87,14 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </div>
----
 
+---
+<div>
 <p align="center">
   <i>Made with ♥ by Parijat</i>
 </p>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,14,23,30&height=120&section=footer" width="100%" alt="Footer Wave" />
+</div>
 </div>
