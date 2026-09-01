@@ -39,7 +39,7 @@
       </p>
     </td>
     <td width="45%" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Cyberpunk.gif" width="360" alt="Cyberpunk Coder Animation" />
+      <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="360" alt="Cyberpunk Coder Animation" />
     </td>
   </tr>
 </table>
@@ -84,15 +84,3 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,14,23,30&height=120&section=footer" width="100%" alt="Footer Wave" />
 </div>
-
-
-### 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</p>
-
-> The snake needs the free **Platane/snk** GitHub Action in your profile repo to generate the `output` branch. Everything else above animates on its own.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:00c6ff,50:2c5364,100:0f2027" width="100%" alt="footer" />
-
