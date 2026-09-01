@@ -88,6 +88,8 @@
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </div>
 
+> The snake’s appetite is ∞ 
+
 ---
 <div>
 <p align="center">
