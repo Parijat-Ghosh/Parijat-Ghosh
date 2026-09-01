@@ -18,7 +18,7 @@
 
 <table>
   <tr>
-    <td width="60%" valign="top">
+    <td width="55%" valign="top">
       <p>👋 <b>Welcome to my GitHub profile!</b> I'm a passionate developer focused on building intuitive, robust, and impactful digital solutions.</p>
       <br />
       <ul>
@@ -38,8 +38,8 @@
         </a>
       </p>
     </td>
-    <td width="40%" align="center" valign="middle">
-      <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="320" alt="Animated Coding Animation" />
+    <td width="45%" align="center" valign="middle">
+      <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Cyberpunk.gif" width="360" alt="Cyberpunk Coder Animation" />
     </td>
   </tr>
 </table>
@@ -48,83 +48,30 @@
 
 ### 🛠️ Languages and Tools
 
-<p align="center">
-  <!-- Languages -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="46" height="46"/>
-  </a>
-  &nbsp;
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="46" height="46"/>
-  </a>
-  &nbsp;
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="46" height="46"/>
-  </a>
-  &nbsp;
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="46" height="46"/>
-  </a>
-  &nbsp;
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="46" height="46"/>
-  </a>
-  &nbsp;
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="46" height="46"/>
-  </a>
-  &nbsp;
-  <!-- Frameworks & Libraries -->
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="46" height="46"/>
-  </a>
-  &nbsp;
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="46" height="46"/>
-  </a>
-  &nbsp;
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="46" height="46"/>
-  </a>
-  &nbsp;
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="46" height="46"/>
-  </a>
-  &nbsp;
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="46" height="46"/>
-  </a>
-  &nbsp;
-  <!-- Cloud & Databases -->
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="46" height="46"/>
-  </a>
-  &nbsp;
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="46" height="46"/>
-  </a>
-  &nbsp;
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="46" height="46"/>
-  </a>
-  &nbsp;
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="46" height="46"/>
-  </a>
-  &nbsp;
-  <!-- Machine Learning & Data Science -->
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="46" height="46"/>
-  </a>
-  &nbsp;
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="46" height="46"/>
-  </a>
-  &nbsp;
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="46" height="46"/>
-  </a>
-</p>
+<div align="center">
+
+<!-- Skill Icons Matrix -->
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=js,ts,py,java,html,css,react,nodejs,express,tailwind,bootstrap,mongodb,mysql,aws,git,pytorch,tensorflow,sklearn&perline=9" alt="Skills Matrix" />
+</a>
+
+</div>
+
+<br />
+
+<details>
+<summary><b>🔍 View Categorized Stack & Documentation Links</b></summary>
+<br />
+
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" width="36" alt="JS" /></a> <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=ts" width="36" alt="TS" /></a> <a href="https://www.python.org" target="_blank"><img src="https://skillicons.dev/icons?i=py" width="36" alt="Python" /></a> <a href="https://www.java.com" target="_blank"><img src="https://skillicons.dev/icons?i=java" width="36" alt="Java" /></a> <a href="https://www.w3.org/html/" target="_blank"><img src="https://skillicons.dev/icons?i=html" width="36" alt="HTML5" /></a> <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://skillicons.dev/icons?i=css" width="36" alt="CSS3" /></a> |
+| **Frontend & Styling** | <a href="https://reactjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=react" width="36" alt="React" /></a> <a href="https://tailwindcss.com/" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind" width="36" alt="Tailwind" /></a> <a href="https://getbootstrap.com" target="_blank"><img src="https://skillicons.dev/icons?i=bootstrap" width="36" alt="Bootstrap" /></a> |
+| **Backend & Databases** | <a href="https://nodejs.org" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" width="36" alt="Node.js" /></a> <a href="https://expressjs.com" target="_blank"><img src="https://skillicons.dev/icons?i=express" width="36" alt="Express" /></a> <a href="https://www.mongodb.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" width="36" alt="MongoDB" /></a> <a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" width="36" alt="MySQL" /></a> |
+| **Cloud & DevOps** | <a href="https://aws.amazon.com" target="_blank"><img src="https://skillicons.dev/icons?i=aws" width="36" alt="AWS" /></a> <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" width="36" alt="Git" /></a> |
+| **AI / Machine Learning** | <a href="https://pytorch.org/" target="_blank"><img src="https://skillicons.dev/icons?i=pytorch" width="36" alt="PyTorch" /></a> <a href="https://www.tensorflow.org" target="_blank"><img src="https://skillicons.dev/icons?i=tensorflow" width="36" alt="TensorFlow" /></a> <a href="https://scikit-learn.org/" target="_blank"><img src="https://skillicons.dev/icons?i=sklearn" width="36" alt="Scikit-Learn" /></a> |
+
+</details>
 
 ---
 
