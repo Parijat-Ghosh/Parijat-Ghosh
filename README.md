@@ -22,16 +22,16 @@
       <p>👋 <b>Welcome to my GitHub profile!</b> I'm a passionate developer focused on building intuitive, robust, and impactful digital solutions.</p>
       <br />
 <ul>
-  <li>⬛ <b>Building with:</b> <code>MERN Stack</code> (MongoDB, Express.js, React, Node.js)</li>
-  <li>✦ <b>Currently exploring:</b> <code>Agentic AI</code> & intelligent AI workflows</li>
-  <li>❖ <b>Interested in:</b> Reliable & scalable system architecture</li>
-  <li>★ <b>Focus:</b> Designing robust systems & implementing business logic efficiently</li>
-  <li>✉️ <b>How to reach me:</b> <a href="mailto:gparijat4@gmail.com"><code>gparijat4@gmail.com</code></a></li>
+  <li>🚀 <b>Building with:</b> <code>MERN Stack</code> (MongoDB, Express.js, React, Node.js)</li>
+  <li>🧠 <b>Currently exploring:</b> <code>Agentic AI</code> & intelligent AI workflows</li>
+  <li>🏗️ <b>Interested in:</b> Reliable & scalable system architecture</li>
+  <li>⚙️ <b>Focus:</b> Designing robust systems & implementing business logic efficiently</li>
+  <li>📫 <b>How to reach me:</b> <a href="mailto:gparijat4@gmail.com"><code>gparijat4@gmail.com</code></a></li>
 </ul>
       <br />
       <h4>🤝 Connect with me</h4>
       <p>
-        <a href="https://www.linkedin.com/in/parijat-ghosh-53058730b/" target="_blank">
+        <a href="https://www.linkedin.com/in/parijat-ghosh-53058730b/" target="_blank" style="margin-right: 8px;">
           <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
         </a>
         <a href="mailto:gparijat4@gmail.com">
