@@ -22,11 +22,11 @@
       <p>👋 <b>Welcome to my GitHub profile!</b> I'm a passionate developer focused on building intuitive, robust, and impactful digital solutions.</p>
       <br />
 <ul>
-  <li>▹ <b>Building with:</b> <code>MERN Stack</code> (MongoDB, Express.js, React, Node.js)</li>
-  <li>◈ <b>Exploring:</b> <code>Agentic AI</code> & intelligent AI workflows</li>
-  <li>◇ <b>Interested in:</b> Reliable & scalable system architecture</li>
-  <li>→ <b>Focus:</b> Robust systems & rapid business logic implementation</li>
-  <li>✉ <b>Contact:</b> <a href="mailto:gparijat4@gmail.com"><code>gparijat4@gmail.com</code></a></li>
+  <li>⬛ <b>Building with:</b> <code>MERN Stack</code> (MongoDB, Express.js, React, Node.js)</li>
+  <li>✦ <b>Currently exploring:</b> <code>Agentic AI</code> & intelligent AI workflows</li>
+  <li>❖ <b>Interested in:</b> Reliable & scalable system architecture</li>
+  <li>★ <b>Focus:</b> Designing robust systems & implementing business logic efficiently</li>
+  <li>✉️ <b>How to reach me:</b> <a href="mailto:gparijat4@gmail.com"><code>gparijat4@gmail.com</code></a></li>
 </ul>
       <br />
       <h4>🤝 Connect with me</h4>
@@ -53,7 +53,7 @@
 
 <!-- Skill Icons Matrix -->
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=js,ts,py,java,html,css,react,nodejs,express,tailwind,bootstrap,mongodb,mysql,aws,git,pytorch,tensorflow,sklearn&perline=9" alt="Skills Matrix" />
+  <img src="https://skillicons.dev/icons?i=js,ts,py,java,html,css,react,nodejs,express,tailwind,postgres,mongodb,mysql,aws,git,pytorch,tensorflow,sklearn&perline=9" alt="Skills Matrix" />
 </a>
 
 </div>
