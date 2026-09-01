@@ -39,7 +39,7 @@
       </p>
     </td>
     <td width="45%" align="center" valign="middle">
-      <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="360" alt="Hacker Coding Animation" />
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjE0d3cwNWcyaG8zOWVpOHV5ODcyOTl3MnkwbWllbTYxd2k2M2Q2ZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ALu1Nuho2eXOyoGJ8u/giphy.gif" width="360" alt="Coding Animation" />
     </td>
   </tr>
 </table>
