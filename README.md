@@ -21,12 +21,13 @@
     <td width="55%" valign="top">
       <p>👋 <b>Welcome to my GitHub profile!</b> I'm a passionate developer focused on building intuitive, robust, and impactful digital solutions.</p>
       <br />
-      <ul>
-        <li>🌱 <b>Currently learning:</b> <code>MERN stack</code> (MongoDB, Express.js, React, Node.js)</li>
-        <li>💬 <b>Ask me about:</b> Web Development & Modern Frontend/Backend Architecture</li>
-        <li>📫 <b>How to reach me:</b> <a href="mailto:gparijat4@gmail.com"><code>gparijat4@gmail.com</code></a></li>
-        <li>⚡ <b>Motto:</b> <i>Solving real-world problems with code & creativity</i></li>
-      </ul>
+<ul>
+  <li>▹ <b>Building with:</b> <code>MERN Stack</code> (MongoDB, Express.js, React, Node.js)</li>
+  <li>◈ <b>Exploring:</b> <code>Agentic AI</code> & intelligent AI workflows</li>
+  <li>◇ <b>Interested in:</b> Reliable & scalable system architecture</li>
+  <li>→ <b>Focus:</b> Robust systems & rapid business logic implementation</li>
+  <li>✉ <b>Contact:</b> <a href="mailto:gparijat4@gmail.com"><code>gparijat4@gmail.com</code></a></li>
+</ul>
       <br />
       <h4>🤝 Connect with me</h4>
       <p>
