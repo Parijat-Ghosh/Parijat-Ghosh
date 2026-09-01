@@ -83,13 +83,14 @@
 
 ---
 
+### 🐍 Watch the Snake Eating Contributions
 <div align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </div>
 ---
 
 <p align="center">
-  Made with ❤️ by <strong>Parijst</strong>
+  <i>Made with ♥ by Parijat</i>
 </p>
 
 <div align="center">
