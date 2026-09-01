@@ -1,30 +1,108 @@
-<h1 align="center">Hi 👋, I'm Parijat Ghosh</h1>
-<h3 align="center">I am here just to solve real world problems with my skills</h3>
+<div align="center">
 
-<img align="right" alt = "coding" width="300" height="300" src="https://media.licdn.com/dms/image/v2/D4D12AQHGG4J6b6OmyQ/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1709674937953?e=2147483647&v=beta&t=tgAv-o8rHSfUFWzGQT2nCOfZkc2Hdluh-9xTR3Opu-w">
+# 🧬 Parijat Ghosh 💻
 
-- 🌱 I’m currently learning **MERN stack**
+<a href="https://github.com/parijat-ghosh">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Solving+real+world+problems+with+code;Full-Stack+MERN+Developer;Passionate+about+AI+%26+Web+Architecture;Continuous+Learning+in+my+DNA+%F0%9F%A7%AC" alt="Typing SVG" />
+</a>
 
-- 💬 Ask me about **Web Development**
+<br/>
 
-- 📫 How to reach me **gparijat4@gmail.com**
+<!-- Animated Hero Section: DNA Helix & Developer Computer Setup -->
+<table align="center" border="0" cellpadding="0" cellspacing="0" style="border: none; background: transparent;">
+  <tr style="border: none; background: transparent;">
+    <td align="center" valign="middle" width="300" style="border: none;">
+      <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Animated DNA Strand" width="220" style="border-radius: 12px; filter: drop-shadow(0 0 10px rgba(56, 189, 248, 0.4));" />
+      <br/>
+      <sub><b>🔬 Code is in my DNA</b></sub>
+    </td>
+    <td align="center" valign="middle" width="380" style="border: none;">
+      <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Animated Computer Workspace" width="340" style="border-radius: 12px; filter: drop-shadow(0 0 10px rgba(168, 85, 247, 0.4));" />
+      <br/>
+      <sub><b>💻 Building Scalable Systems</b></sub>
+    </td>
+  </tr>
+</table>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/parijat-ghosh-53058730b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="parijat ghosh" height="30" width="40" /></a>
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parijat-ghosh-53058730b/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gparijat4@gmail.com)
+[![Portfolio/GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/parijat-ghosh)
+
+</div>
+
+---
+
+### 💫 About Me
+
+```javascript
+const parijatGhosh = {
+  pronouns: "He/Him",
+  passion: "Solving real world problems through elegant code",
+  coreFocus: ["Full-Stack MERN", "AI / Machine Learning", "Cloud Services"],
+  currentlyLearning: "Advanced MERN Stack & Scalable Microservices",
+  askMeAbout: ["Web Development", "JavaScript / TypeScript", "Python", "Data Science"],
+  contact: "gparijat4@gmail.com"
+};
+```
+
+- 🌱 I’m currently sharpening my skills in the **MERN stack & Cloud Architecture**
+- 💬 Ask me about **Web Development, Backend APIs, and Python / ML**
+- 📫 How to reach me: **[gparijat4@gmail.com](mailto:gparijat4@gmail.com)**
+- ⚡ Fun Fact: *Like a DNA strand, programming is all about endless sequencing and adaptation.*
+
+---
+
+### 🛠️ Languages and Tools
+
+<div align="center">
+
+#### 🚀 Frontend & UI
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,ts,react" alt="Frontend Skills" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+#### ⚙️ Backend, Databases & Cloud
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,aws,git,github" alt="Backend & Cloud Skills" />
+</p>
 
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=parijat-ghosh&show_icons=true&locale=en&layout=compact" alt="parijat-ghosh" /></p>
+#### 🧠 Languages, Machine Learning & Data Science
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,java,scikitlearn" alt="AI & ML Skills" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=parijat-ghosh&show_icons=true&locale=en" alt="parijat-ghosh" /></p> -->
+</div>
 
+---
 
+### 📊 GitHub Activity & Metrics
 
+<div align="center">
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=parijat-ghosh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Parijat's GitHub Stats" width="48%" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parijat-ghosh&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=parijat-ghosh&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
+</p>
+
+</div>
+
+---
+
+<div align="center">
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,24&height=100&section=footer" width="100%"/>
+
+  <p><i>Crafted with 🧬 passion & 💻 precision by Parijat Ghosh</i></p>
+
+</div>
 
 <!---
 Parijat-Ghosh/Parijat-Ghosh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
 --->
