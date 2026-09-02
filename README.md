@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=false&width=700&height=50&lines=Hi+%F0%9F%91%8B%2C+I'm+Parijat+Ghosh;Building+with+the+MERN+Stack+%F0%9F%9A%80;Exploring+Agentic+AI+%26+Intelligent+AI+Workflows+%F0%9F%A7%A0;Interested+in+Reliable+%26+Scalable+Systems+%F0%9F%8F%97%EF%B8%8F;Designing+Robust+Systems+%26+Efficient+Business+Logic+%E2%9A%99%EF%B8%8F" alt="Animated Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=false&width=700&height=50&lines=Hi+%F0%9F%91%8B%2C+I'm+Parijat+Ghosh;Building+with+the+MERN+Stack+%F0%9F%9A%80;Exploring+Agentic+AI+%26+Intelligent+AI+Workflows+%F0%9F%A7%A0;Interested+in+Reliable+%26+Scalable+Systems+%F0%9F%8F%97%EF%B8%8F;Designing+Efficient+Business+Logic+%E2%9A%99%EF%B8%8F" alt="Animated Typing SVG" />
   </a>
 </div>
 
