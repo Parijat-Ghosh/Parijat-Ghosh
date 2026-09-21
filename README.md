@@ -86,11 +86,7 @@
 
 ### 🐍 Watch the Snake Eating Contributions
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Parijat-Ghosh/Parijat-Ghosh/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Parijat-Ghosh/Parijat-Ghosh/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Parijat-Ghosh/Parijat-Ghosh/output/github-contribution-grid-snake-dark.svg" />
-  </picture>
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </div>
 
 > The snake’s appetite is ∞ 
