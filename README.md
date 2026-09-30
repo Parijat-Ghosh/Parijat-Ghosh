@@ -76,13 +76,6 @@
 
 ---
 
-### 📊 GitHub Activity & Stats
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=parijat-ghosh&theme=tokyonight&hide_border=true&card_width=450" alt="GitHub Streak" />
-</div>
-
----
 
 ### 🐍 Watch the Snake Eating Contributions
 <div align="center">
